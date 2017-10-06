@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Affichage" version="4">
+  <OBJECT>
+    <ID name="Affichage" mc="Standard.Package" uid="9a7de200-5798-4204-8fe3-0ae776a89997"/>
+    <PID name="chessproject" mc="Standard.Package" uid="1a3462dc-87f2-4b38-ad34-4c3159ee9fb5"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Affichage]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="fenettre" mc="Standard.Class" uid="d16ec203-ae5d-48a6-ad68-07b08e91feba"/>
+        <COMPID name="bouton" mc="Standard.Class" uid="ce927da7-68da-44fe-8fab-3fd9992947f6"/>
+      </COMP>
+      <LINK relation="Extension">
+        <FOREIGNID name="JavaPackage" mc="Infrastructure.Stereotype" uid="01ec23a8-0000-0126-0000-000000000000"/>
+      </LINK>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

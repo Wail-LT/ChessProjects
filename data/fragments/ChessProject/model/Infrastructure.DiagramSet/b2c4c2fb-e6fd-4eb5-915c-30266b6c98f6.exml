@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="ChessProject" version="4">
+  <OBJECT>
+    <ID name="ChessProject" mc="Infrastructure.DiagramSet" uid="b2c4c2fb-e6fd-4eb5-915c-30266b6c98f6"/>
+    <PID name="ChessProject" mc="Standard.Project" uid="0dd8e399-113c-42b5-8513-3011e40a9428"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[ChessProject]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>
